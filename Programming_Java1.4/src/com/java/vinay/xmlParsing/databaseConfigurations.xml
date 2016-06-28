@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<databaseConfigurations>
+	<environment>
+		<name>Local</name>
+		<logicalName>BRTST04</logicalName>
+		<connString>jdbc:oracle:thin:@10.164.138.200:1521:BRTST04</connString>
+	</environment>
+	<environment>
+		<name>Unit</name>
+		<logicalName>BRTST05</logicalName>
+		<connString>jdbc:oracle:thin:@10.8.226.85:1544:BRTST05</connString>
+	</environment>
+	<environment>
+		<name>System</name>
+		<logicalName>BRTST06</logicalName>
+		<connString>jdbc:oracle:thin:@d05jbdbs04.metavante.com:1546:BRTST06</connString>
+	</environment>
+	<environment>
+		<name>Readiness</name>
+		<logicalName>BRFNC01</logicalName>
+		<connString>jdbc:oracle:thin:@BRFNC01.FNFIS.COM:1531:BRFNC01</connString>
+	</environment>
+	<environment>
+		<name>Performance</name>
+		<logicalName>BRPRF01</logicalName>
+		<connString>jdbc:oracle:thin:@BRPRF01.FNFIS.COM:1531:BRPRF01</connString>
+	</environment>
+</databaseConfigurations>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="profiler.settings.instrument.empty.methods">true</entry>
+<entry key="ProfilerCPUSettings_profile_runnables">true</entry>
+<entry key="profiler.settings.n.profiled.threads.limit">32</entry>
+<entry key="ProfilerCPUSettings_filter_type">2</entry>
+<entry key="profiler.settings.obj.alloc.stack.sampling.depth">-1</entry>
+<entry key="profiler.settings.instrument.method.invoke">true</entry>
+<entry key="profiler.settings.instr.scheme">1</entry>
+<entry key="ProfilerMemorySettings_track_every">10</entry>
+<entry key="ProfilerMemorySettings_mode">4</entry>
+<entry key="ProfilerCPUSettings_root_classes">com.java.vinay.accessSpecifiers.**
+com.java.vinay.arrays.**
+com.java.vinay.exception.**
+com.java.vinay.innerClass.**
+com.java.vinay.inputOutput.**
+com.java.vinay.loops.**
+com.java.vinay.polymorphism.**
+com.java.vinay.superCalling.**
+com.java.vinay.swings.**
+com.java.vinay.threads.**
+</entry>
+<entry key="ProfilerCPUSettings_filter_value">com.java.vinay.accessSpecifiers.*,&#13;
+com.java.vinay.arrays.*,&#13;
+com.java.vinay.exception.*,&#13;
+com.java.vinay.innerClass.*,&#13;
+com.java.vinay.inputOutput.*,&#13;
+com.java.vinay.loops.*,&#13;
+com.java.vinay.polymorphism.*,&#13;
+com.java.vinay.superCalling.*,&#13;
+com.java.vinay.swings.*,&#13;
+com.java.vinay.threads.*</entry>
+<entry key="profiler.settings.istrument.getter.setter.methods">true</entry>
+<entry key="myeclipse.profiling.mode">0</entry>
+<entry key="ProfilerMemorySettings_stacktraces">-1</entry>
+<entry key="profiler.settings.sampling.interval">10</entry>
+<entry key="profiler.settings.cpu.profiling.type">0</entry>
+</properties>
